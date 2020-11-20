@@ -1,0 +1,15 @@
+{
+    "name"       : "tricarte/disable-admin-email-verification",
+    "description": "Disables admin email verification.",
+    "homepage"   : "https://github.com/tricarte/disable-admin-email-verification",
+    "type"       : "wordpress-muplugin",
+    "license"    : "MIT",
+    "authors"    : [
+        {
+            "name"    : "tricarte"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
